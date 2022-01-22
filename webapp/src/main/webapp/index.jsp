@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-html> <head> <h1> Company Registration Form</h1>
+<html> <head> <h1> Company Registration Form</h1>
 </head>
 <body>
 <form>
@@ -7,3 +7,4 @@ html> <head> <h1> Company Registration Form</h1>
 </form> 
 </body>
 </html>
+<input type="checkbox" name="Male" value="Male"> Male<br> <input type="checkbox" name="Female" value="Female"> Female<br>
