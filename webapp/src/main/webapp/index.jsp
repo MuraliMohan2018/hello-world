@@ -7,4 +7,4 @@
 </form> 
 </body>
 </html>
-<input type="checkbox" name="Male" value="Male"> Male<br> <input type="checkbox" name="Female" value="Female"> Female<br>
+
